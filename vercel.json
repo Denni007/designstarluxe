@@ -1,0 +1,13 @@
+{
+    "routes": [
+      { "handle": "filesystem" },
+      { "src": "/", "dest": "/design.html" },
+      { "src": "/index", "dest": "/index.html" },
+      { "src": "/home", "dest": "/home.html" },
+      { "src": "/ga4-migration", "dest": "/ga4-migration.html" },
+      { "src": "/tracking", "dest": "/tracking.html" },
+      { "src": "/s2s-gtm", "dest": "/s2s-gtm.html" },
+      { "src": "/sitemap.xml", "dest": "/sitmap.xml" },
+      { "src": "/(.*)", "status": 404, "dest": "/coming-soon.html" }
+    ]
+  }
