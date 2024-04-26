@@ -2,7 +2,7 @@
     "routes": [
       { "handle": "filesystem" },
       { "src": "/", "dest": "/design.html" },
-      { "src": "/index", "dest": "/index.html" },
+      { "src": "/app", "dest": "/app.html" },
       { "src": "/home", "dest": "/home.html" },
       { "src": "/ga4-migration", "dest": "/ga4-migration.html" },
       { "src": "/tracking", "dest": "/tracking.html" },
