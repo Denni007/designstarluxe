@@ -24,45 +24,45 @@ var i = "vxvJpsGMR"
   , c = [{
     index: 0,
     id: "o4HPw0u0g",
-    [i]: "Techlify",
-    [a]: "techlify",
+    [i]: "Salad India",
+    [a]: "saladindia",
     [m]: "2024",
-    [g]: "Branding",
+    [g]: "Logo Design",
     [p]: "Web Design",
-    [l]: "Technology Consulting",
+    [l]: "Brand Research",
     [d]: t(n, {
         children: t("p", {
-            children: "Techlify's mission was to empower startups by optimizing their software stacks, enabling them to scale efficiently and innovate faster. Our focus was on identifying and implementing the most effective technological solutions tailored to each startup's unique needs, driving growth and enhancing operational agility."
+            children: "Salad India: Where Freshness Meets Deliciousness! Discover Surat's only vegetarian salad destination, dedicated to delivering healthy and hygienic salad experiences right to your doorstep. Our logo and website project goals aim to capture the essence of freshness and healthiness while providing an intuitive and visually captivating online platform for salad lovers to explore our delicious offerings and place orders effortlessly."
         })
     }),
     [f]: t(n, {
         children: t("p", {
-            children: "Services offered encompassed comprehensive branding to establish a strong, tech-forward market presence, bespoke web design to showcase our technology consulting expertise, and personalized consulting services aimed at enhancing software infrastructure, streamlining workflows, and facilitating seamless integration of cutting-edge technologies."
+            children: "Salad India Services: Our dedicated team excels in delivering bespoke branding solutions, including captivating logo designs and dynamic web pages built on Framer, we ensure that online presence reflects unique offerings and resonates with target audience. With a focus on enhancing software infrastructure and integrating advanced technologies, we ensure a seamless and innovative customer journey for business."
         })
     }),
     [w]: e({
-        src: "https://framerusercontent.com/images/OjDWKO1WCZwo6A83gFDFyFqtgo.png",
-        srcSet: "https://framerusercontent.com/images/OjDWKO1WCZwo6A83gFDFyFqtgo.png?scale-down-to=512 512w, https://framerusercontent.com/images/OjDWKO1WCZwo6A83gFDFyFqtgo.png?scale-down-to=1024 1024w, https://framerusercontent.com/images/OjDWKO1WCZwo6A83gFDFyFqtgo.png?scale-down-to=2048 2048w, https://framerusercontent.com/images/OjDWKO1WCZwo6A83gFDFyFqtgo.png 2892w"
+        src: "https://framerusercontent.com/images/MhH413QXtBJNpMihf1ujmp9h4c.png",
+        srcSet: "https://framerusercontent.com/images/MhH413QXtBJNpMihf1ujmp9h4c.png?scale-down-to=512 512w, https://framerusercontent.com/images/MhH413QXtBJNpMihf1ujmp9h4c.png?scale-down-to=1024 1024w, https://framerusercontent.com/images/MhH413QXtBJNpMihf1ujmp9h4c.png?scale-down-to=2048 2048w, https://framerusercontent.com/images/MhH413QXtBJNpMihf1ujmp9h4c.png 2892w"
     }, "Teal Flower"),
     [u]: e({
-        src: "https://framerusercontent.com/images/7Z9BgxkWtjMUoafO0IwDGo4Dny8.png",
-        srcSet: "https://framerusercontent.com/images/7Z9BgxkWtjMUoafO0IwDGo4Dny8.png?scale-down-to=512 512w, https://framerusercontent.com/images/7Z9BgxkWtjMUoafO0IwDGo4Dny8.png?scale-down-to=1024 1024w, https://framerusercontent.com/images/7Z9BgxkWtjMUoafO0IwDGo4Dny8.png 1920w"
+        src: "https://framerusercontent.com/images/sHnAK92euSj9UDo5JiH7iyZMUc.png",
+        srcSet: "https://framerusercontent.com/images/sHnAK92euSj9UDo5JiH7iyZMUc.png?scale-down-to=512 512w, https://framerusercontent.com/images/sHnAK92euSj9UDo5JiH7iyZMUc.png?scale-down-to=1024 1024w, https://framerusercontent.com/images/sHnAK92euSj9UDo5JiH7iyZMUc.png 1920w"
     }, ""),
     [h]: e({
-        src: "https://framerusercontent.com/images/cGfjPLvtLKBh5BtIrRu08fuhnM.jpg",
-        srcSet: "https://framerusercontent.com/images/cGfjPLvtLKBh5BtIrRu08fuhnM.jpg?scale-down-to=512 512w, https://framerusercontent.com/images/cGfjPLvtLKBh5BtIrRu08fuhnM.jpg?scale-down-to=1024 1024w, https://framerusercontent.com/images/cGfjPLvtLKBh5BtIrRu08fuhnM.jpg?scale-down-to=2048 2048w, https://framerusercontent.com/images/cGfjPLvtLKBh5BtIrRu08fuhnM.jpg 3000w"
+        src: "https://framerusercontent.com/images/A5JIj7rzY2heKz3OrptcX7DBIy8.png",
+        srcSet: "https://framerusercontent.com/images/A5JIj7rzY2heKz3OrptcX7DBIy8.png?scale-down-to=512 512w, https://framerusercontent.com/images/A5JIj7rzY2heKz3OrptcX7DBIy8.png?scale-down-to=1024 1024w, https://framerusercontent.com/images/A5JIj7rzY2heKz3OrptcX7DBIy8.png?scale-down-to=2048 2048w, https://framerusercontent.com/images/A5JIj7rzY2heKz3OrptcX7DBIy8.png 3000w"
     }, ""),
     [v]: e({
-        src: "https://framerusercontent.com/images/bxOiraMyZs9HkB7fo6KZ0AysM.png",
-        srcSet: "https://framerusercontent.com/images/bxOiraMyZs9HkB7fo6KZ0AysM.png?scale-down-to=512 512w, https://framerusercontent.com/images/bxOiraMyZs9HkB7fo6KZ0AysM.png?scale-down-to=1024 1024w, https://framerusercontent.com/images/bxOiraMyZs9HkB7fo6KZ0AysM.png 1920w"
+        src: "https://framerusercontent.com/images/UPlQgtDSQ1jAr0NFFItWSQDkpw.png",
+        srcSet: "https://framerusercontent.com/images/UPlQgtDSQ1jAr0NFFItWSQDkpw.png?scale-down-to=512 512w, https://framerusercontent.com/images/UPlQgtDSQ1jAr0NFFItWSQDkpw.png?scale-down-to=1024 1024w, https://framerusercontent.com/images/UPlQgtDSQ1jAr0NFFItWSQDkpw.png 1920w"
     }, ""),
     [y]: e({
-        src: "https://framerusercontent.com/images/M1Jh3XvpwweNwWfIi457BwEfjxo.jpg?scale-down-to=4096",
-        srcSet: "https://framerusercontent.com/images/M1Jh3XvpwweNwWfIi457BwEfjxo.jpg?scale-down-to=512 512w, https://framerusercontent.com/images/M1Jh3XvpwweNwWfIi457BwEfjxo.jpg?scale-down-to=1024 1024w, https://framerusercontent.com/images/M1Jh3XvpwweNwWfIi457BwEfjxo.jpg?scale-down-to=2048 2048w, https://framerusercontent.com/images/M1Jh3XvpwweNwWfIi457BwEfjxo.jpg?scale-down-to=4096 4096w, https://framerusercontent.com/images/M1Jh3XvpwweNwWfIi457BwEfjxo.jpg 6000w"
+        src: "https://framerusercontent.com/images/TjOvHNOwZt08G5NMEAOiRVMvSi4.png",
+        srcSet: "https://framerusercontent.com/images/TjOvHNOwZt08G5NMEAOiRVMvSi4.png?scale-down-to=512 512w, https://framerusercontent.com/images/TjOvHNOwZt08G5NMEAOiRVMvSi4.png?scale-down-to=1024 1024w, https://framerusercontent.com/images/TjOvHNOwZt08G5NMEAOiRVMvSi4.png?scale-down-to=2048 2048w, https://framerusercontent.com/images/TjOvHNOwZt08G5NMEAOiRVMvSi4.png 4096w, https://framerusercontent.com/images/TjOvHNOwZt08G5NMEAOiRVMvSi4.png 6000w"
     }, ""),
     [x]: e({
-        src: "https://framerusercontent.com/images/OjDWKO1WCZwo6A83gFDFyFqtgo.png",
-        srcSet: "https://framerusercontent.com/images/OjDWKO1WCZwo6A83gFDFyFqtgo.png?scale-down-to=512 512w, https://framerusercontent.com/images/OjDWKO1WCZwo6A83gFDFyFqtgo.png?scale-down-to=1024 1024w, https://framerusercontent.com/images/OjDWKO1WCZwo6A83gFDFyFqtgo.png?scale-down-to=2048 2048w, https://framerusercontent.com/images/OjDWKO1WCZwo6A83gFDFyFqtgo.png 2892w"
+        src: "https://framerusercontent.com/images/FCAJFxArScBSJCIcUe7pXxv5BoU.png  ",
+        srcSet: "https://framerusercontent.com/images/FCAJFxArScBSJCIcUe7pXxv5BoU.png?scale-down-to=512 512w, https://framerusercontent.com/images/FCAJFxArScBSJCIcUe7pXxv5BoU.png?scale-down-to=1024 1024w, https://framerusercontent.com/images/FCAJFxArScBSJCIcUe7pXxv5BoU.png?scale-down-to=2048 2048w, https://framerusercontent.com/images/FCAJFxArScBSJCIcUe7pXxv5BoU.png 2892w"
     }, ""),
     [j]: {
         pathVariables: {

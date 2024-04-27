@@ -3505,7 +3505,7 @@ var Yn = {
                                                             children: t("p", {
                                                                 className: "framer-styles-preset-1hcerco",
                                                                 "data-styles-preset": "Mh8l2Hg_t",
-                                                                children: "Netlify"
+                                                                children: "Figma"
                                                             })
                                                         }),
                                                         className: "framer-1jjbq7z",
